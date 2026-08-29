@@ -6,7 +6,7 @@
   <h3>My name is Amir Hossein but you can call me MrAmirZ.</h3>
   <br>
   <hr>
-  <h2>My Expriense</h2>
+  <h2>My Skills</h2>
   <img src="https://skillicons.dev/icons?i=py,html,css,js"/>
 </div>
 
